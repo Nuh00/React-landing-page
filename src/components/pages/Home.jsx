@@ -1,6 +1,7 @@
 import HeroSection from "../HeroSection";
 import Cards from "../Cards";
 import '../../App.css';
+import Footer from "../Footer";
 
 export default function Home() {
     return (
@@ -8,6 +9,7 @@ export default function Home() {
       
         <HeroSection />
         <Cards />
+        <Footer />
         
      
       </>
