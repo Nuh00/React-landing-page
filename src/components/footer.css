@@ -13,3 +13,57 @@
   justify-content: center;
   align-self: center;
 }
+
+.footer-subscription {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 24px;
+  padding: 24px;
+}
+
+.footer-subscription-heading {
+  margin-bottom: 24px;
+  font-size: 24px;
+}
+
+.footer-subscription-text {
+  margin-bottom: 24px;
+  font-size: 20px;
+}
+
+.footer-input {
+  padding: 8px 20px;
+  border-radius: 2px;
+  margin-right: 10px;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+
+
+/* footer links */
+
+.footer-links {
+  width: 100%;
+  max-width: 2000px;
+  display: flex;
+  justify-content: center;
+}
+
+.footer-link-wrapper {
+  display: flex;
+}
+
+.footer-link-items {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  flex-wrap: wrap;
+  margin: 16px;
+  text-align: left;
+  width: 160px;
+}

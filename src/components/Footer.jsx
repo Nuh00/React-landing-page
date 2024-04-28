@@ -29,28 +29,28 @@ function Footer() {
       <div className="footer-links">
         <div className="footer-link-wrapper">
           <div className="footer-link-items">
-            <h2>How it Works</h2>
+            <h2>About Us</h2>
             <Link to="./sign-up"> How it works </Link>
             <Link to="/"> Testimonials </Link>
             <Link to="/"> Careers </Link>
             <Link to="/"> Investors </Link>
           </div>
           <div className="footer-link-items">
-            <h2>How it Works</h2>
+            <h2>Contact Us</h2>
             <Link to="./sign-up"> How it works </Link>
             <Link to="/"> Testimonials </Link>
             <Link to="/"> Careers </Link>
             <Link to="/"> Investors </Link>
           </div>
           <div className="footer-link-items">
-            <h2>How it Works</h2>
+            <h2>Videos</h2>
             <Link to="./sign-up"> How it works </Link>
             <Link to="/"> Testimonials </Link>
             <Link to="/"> Careers </Link>
             <Link to="/"> Investors </Link>
           </div>
           <div className="footer-link-items">
-            <h2>How it Works</h2>
+            <h2>Social Media</h2>
             <Link to="./sign-up"> How it works </Link>
             <Link to="/"> Testimonials </Link>
             <Link to="/"> Careers </Link>
