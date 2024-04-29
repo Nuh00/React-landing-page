@@ -44,7 +44,6 @@
   margin-bottom: 16px;
 }
 
-
 /* footer links */
 
 .footer-links {
@@ -67,3 +66,15 @@
   text-align: left;
   width: 160px;
 }
+
+.footer-link-items h2 {
+  margin-bottom: 16px;
+}
+
+
+.footer-link-items a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
